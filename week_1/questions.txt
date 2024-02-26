@@ -1,0 +1,9 @@
+a.Java 21, the latest (4th) LTS, was released on September 19, 2023.
+
+b. Java SE (Standard Edition) is a platform for developing and deploying desktop applications and server environments. Java ME (Micro Edition) is a subset of Java SE, primarily used for developing applications on resource-constrained devices such as mobile phones, embedded systems, and set-top boxes.
+
+c. Java is available for various operating systems including Windows, macOS, Linux, and others.
+
+d. Apart from Eclipse, another popular IDE for Java development is IntelliJ IDEA.
+
+e. The main() function in a Java program is the entry point of the program. It's where the program starts its execution. The JVM (Java Virtual Machine) looks for the main() method with the following signature to start executing the program: public static void main(String[] args).

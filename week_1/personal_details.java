@@ -12,7 +12,7 @@ public class personal_details {
 
         System.out.println("Enter your age:");
         int age = scanner.nextInt();
-        scanner.nextLine(); // Consume the newline character
+        scanner.nextLine(); 
 
         System.out.println("Enter your phone number:");
         String phoneNumber = scanner.nextLine();
